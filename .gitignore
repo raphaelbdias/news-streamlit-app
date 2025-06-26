@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# VSCode settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Streamlit & dotenv secrets
+.streamlit/secrets.toml
+.env
+
+# Logs, databases, coverage
+*.log
+*.sqlite3
+.coverage
+htmlcov/
+
+# IDE files
+*.idea/
